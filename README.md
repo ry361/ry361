@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=blzscript&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
 <p align="center">
-    <a href="https://instagram.com/denizwwp" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://instagram.com/reye242" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    </p>                                                          
 
 <a href="https://discord.com/users/829854813125738497" target="_blank">
