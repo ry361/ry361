@@ -2,8 +2,9 @@
    <b>Hi, I'm RY 👋</b>
 
 [![Website](https://img.shields.io/website?label=blzscript&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
-<a href="https://instagram.com/denizwwp" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-
+<p align="center">
+    <a href="https://instagram.com/denizwwp" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   </p>                                                          
 
 <a href="https://discord.com/users/829854813125738497" target="_blank">
    <img src="https://lanyard-profile-readme.vercel.app/api/829854813125738497?theme=black&bg=1E2D35&animated=true&hideDiscrim=false&borderRadius=20px">
