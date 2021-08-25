@@ -1,6 +1,6 @@
 <div align="center">
    <b>Hi, I'm RY 👋</b> <br>
-   <b>I'm a software developer (Only for FiveM)😅</b>
+   <b>I'm a software developer (Only for FiveM)😅</b> <br>
    
 
 [![Website](https://img.shields.io/website?label=blzscript&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
