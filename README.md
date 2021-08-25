@@ -1,9 +1,9 @@
 <div align="center">
-   <b>Hi, I'm pwais 👋</b>
+   <b>Hi, I'm RY 👋</b>
 
 [![Website](https://img.shields.io/website?label=blzscript&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
 
-<a href="https://discord.com/users/775710258026119168" target="_blank">
+<a href="https://discord.com/users/829854813125738497" target="_blank">
    <img src="https://lanyard-profile-readme.vercel.app/api/775710258026119168?theme=black&bg=1E2D35&animated=true&hideDiscrim=false&borderRadius=20px">
 </a>
 
