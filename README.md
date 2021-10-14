@@ -3,7 +3,7 @@
    <b>I'm a software developer (Only for FiveM)😅</b> <br>
    
 
-[![Website](https://img.shields.io/website?label=venydev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/3BTUeVBJ)
+[![Website](https://img.shields.io/website?label=venydev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/TGjGUchWsk)
    
 <p align="center">
     <a href="https://instagram.com/reye242" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
