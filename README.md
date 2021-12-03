@@ -1,4 +1,4 @@
-nnnnnnnnnnn<div align="center">
+<div align="center">
    
 [![Website](https://img.shields.io/website?label=venydev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/TGjGUchWsk)
    
