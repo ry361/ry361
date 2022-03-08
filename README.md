@@ -7,7 +7,8 @@
    <img src="https://lanyard-profile-readme.vercel.app/api/924327080320200765?theme=black&bg=1E2D35&animated=true&hideDiscrim=false&borderRadius=20px">
 </a>
 
-contact me :
+Contact Me :
+<br>
 [<img align="left" alt="ry#9597 | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 [<img align="left" alt="farukk.092 | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
    
