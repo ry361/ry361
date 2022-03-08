@@ -9,8 +9,8 @@
 
 ### Contact:
  
-[<img align="left" alt="ry#9597| Discord" width="26px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-[<img align="left" alt="farukk.092 | Instagram" width="26px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+<img align="left" alt="ry#9597| Discord" width="26px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />[discord]
+<img align="left" alt="farukk.092 | Instagram" width="26px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />[instagram]
 
 <br />
 
