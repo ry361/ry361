@@ -1,6 +1,6 @@
 <div align="center">
    
-[![Website](https://img.shields.io/website?label=venydev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/TGjGUchWsk)
+[![Website](https://img.shields.io/website?label=nproblem&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://discord.gg/gmRtqRrUEK)
    
 
 <a href="https://discord.com/users/317215936589594625" target="_blank">
